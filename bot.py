@@ -13,14 +13,14 @@ from firebase_admin import credentials, firestore
 # ==========================================
 # Configuration
 # ==========================================
-BOT_TOKEN = "8910327784:AAGpiJSufLi3_3bv7FESnlf42EBwY52QrHI"
+BOT_TOKEN = "8654636505:AAFa34wGwcxneP1RDwjjQyfW68_m19hnMdQ"
 ADMIN_ID = 8637031881
 BASE_URL = f"https://api.telegram.org/bot{BOT_TOKEN}/"
 BOT_USERNAME = ""
 
 # 2oo9 API Configuration
 API_2OO9_BASE = "https://api.2oo9.cloud/MXS47FLFX0U/tnevs/@public/api"
-API_2OO9_KEY_DEFAULT = "MQHCLRXLHVC"
+API_2OO9_KEY_DEFAULT = "M7CV0PAHVQJ"
 
 # Global states
 current_db_mode = "sqlite"
